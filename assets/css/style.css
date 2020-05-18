@@ -1,0 +1,22 @@
+.card-body {
+text-align: center;
+width: 100%;
+height: 200px;
+
+}
+
+.navbar-toggler {
+    align-items: flex-end;
+}
+#left1 {
+    height: 180px;
+    text-align: center;
+    width: 100%;
+    height: 200px;
+}
+#center1 {
+    
+}
+#right1 {
+    
+}
